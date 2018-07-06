@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+}
+
+p {
+  height: 100px;
+  background-color: blue;
+  margin: 50px;
+}
+
+h1:hover {
+  color:pink;
+}
+
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+
+/** {
+  border: 1px solid black;
+}*/
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 300px;
+  border: 2px solid pink;
+}
+
+.container div {
+  height: 40px;
+  width: 50px;
+
+  border: 1px solid red;
+  background-color: green;
+  color: white;
+
+}
