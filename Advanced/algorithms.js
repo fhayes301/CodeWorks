@@ -3,8 +3,6 @@
 // Before you get started...
 // In the 'advanced folder' run NPM Install in your terminal
 
-
-
 // Question 1:
   // In an array having positive integers, except for one number which occurs odd number of times, all other numbers occur even number of times. Find the number.
   // Example -
