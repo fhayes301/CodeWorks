@@ -13,3 +13,8 @@
   // Output: 4
 
   // insert code below
+
+
+  let arr = [2, 5, 9, 1, 5, 1, 8, 2, 8]
+
+  // solve the problem :) 
